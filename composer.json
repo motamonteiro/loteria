@@ -1,5 +1,5 @@
 {
-    "name": "alemonteiro/loteria",
+    "name": "motamonteiro/loteria",
     "description": "Aplicacao desenvolvida com PHP 7 que simula o cadastro e sorteio da MegaSena promovido pela Caixa Economica Federal",
     "license": "MIT",
     "authors": [
