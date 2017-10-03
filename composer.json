@@ -1,0 +1,17 @@
+{
+    "name": "alemonteiro/loteria",
+    "description": "Aplicacao desenvolvida com PHP 7 que simula o cadastro e sorteio da MegaSena promovido pela Caixa Economica Federal",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandre Mota Monteiro",
+            "email": "motamonteiro@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MotaMonteiro\\Loteria\\":"src/"
+        }
+    }
+}
